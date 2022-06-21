@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksander a.k.a @vaehaaland
 - 👀 I’m interested in Web Development and media production
-- 🌱 I’m currently taking a computer tech. course in uni. Learning everything from databases to Web Dev.
+- 🌱 I’m currently wokring as a Application Developer for Omega 365 Solutions AS in Stavanger
 - 📫 How to reach me - email: mail@vaehaaland.no, Discord: alha#1337 
 
 <!---
